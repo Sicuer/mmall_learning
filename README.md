@@ -14,5 +14,8 @@ mybatis generator 配置
     双击maven mybaties-generator 生成
 mybatis plugin
 
-    
 
+20180927
+    妈的，mvn tomcat 插件竟然只能运行war,不过tomcat也
+    只能运行war猜测mvn 项目一定要打包成war
+    
