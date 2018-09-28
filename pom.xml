@@ -248,6 +248,7 @@
   </dependencies>
 
 
+
   <build>
     <finalName>mmall</finalName>
     <plugins>
@@ -272,6 +273,10 @@
         <version>2.2</version>
         <configuration>
           <server>myserver</server>
+            <username>tomcat</username>
+            <password>tomcat</password>
+            <update>true</update>
+            <path>/</path>
         </configuration>
       </plugin>
     <!--生成DAO层文件-->

@@ -19,3 +19,7 @@ mybatis plugin
     妈的，mvn tomcat 插件竟然只能运行war,不过tomcat也
     只能运行war猜测mvn 项目一定要打包成war
     
+    
+20180928
+    mybatis plugin 跳转是通过xmp mapper 的命名空间来绑定的
+    
